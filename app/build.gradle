@@ -2,6 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 26
+    ndkVersion "20.1.5948944"
     defaultConfig {
         applicationId 'org.pocketworkstation.pckeyboard'
         minSdkVersion 14
